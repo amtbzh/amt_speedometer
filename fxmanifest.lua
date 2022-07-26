@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-name 'speedometer'
+name 'amt_speedometer'
 description 'Free speedometer script'
 author 'AMT#4538 | AMTBZH'
 game 'gta5'
