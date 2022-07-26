@@ -1,3 +1,5 @@
+-- AMT Speedometer v1.0
+
 fx_version 'cerulean'
 name 'amt_speedometer'
 description 'Free speedometer script'

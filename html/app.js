@@ -1,3 +1,5 @@
+// AMT Speedometer v1.0
+
 $(document).ready(function () {
   
     window.addEventListener("message", function (event) { 
